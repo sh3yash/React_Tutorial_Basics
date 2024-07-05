@@ -1,0 +1,47 @@
+
+  .card{
+    border: 2px;
+    height: 16cm;
+    width: 10cm;
+    border-style: double;
+    background-color:black;
+    margin: 5px;
+
+    text-align: center;
+    color: aqua;
+  }
+  
+  #a1{
+    width: 10cm;
+  }
+
+
+  .superhit{
+    background-color: rgb(45, 215, 45);
+    color: black;
+
+
+  }
+
+  .average{
+    background-color: yellow;
+    color:black;
+
+
+  }
+
+  .rating{
+    margin-left: 1.2rem;
+    padding: 0.3rem 1rem;
+    border-radius: 20%;
+  }
+
+  .button-rating{
+    width: 10cm;
+    height: 1cm;
+    border-radius: 0.3cm;
+    border-color: blue;
+    border-width: 0.1cm;
+  }
+
+  

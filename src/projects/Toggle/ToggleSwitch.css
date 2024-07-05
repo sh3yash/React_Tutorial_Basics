@@ -1,0 +1,23 @@
+/* body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+} */
+
+.main{
+
+    padding-left: 10cm;
+}
+
+#dark{
+    color: aqua;
+    background-color: black;
+    border-color: blue;
+}
+
+#light{
+    color: black;
+    background-color: aqua;
+    border-color: red;
+}

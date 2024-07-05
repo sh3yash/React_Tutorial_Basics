@@ -1,0 +1,79 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "The Irishman",
+        "rating": 8.1,
+        "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+        "watch_url": "https://www.netflix.com/title/80175798",
+        "image_url": "https://m.media-amazon.com/images/I/91w42-6SvYL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Inception",
+        "rating": 8.8,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "watch_url": "https://www.netflix.com/title/70131314",
+        "image_url": "https://m.media-amazon.com/images/I/51VwbXPfAiL._AC_.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Social Network",
+        "rating": 7.7,
+        "description": "The story of the founding of Facebook and the lawsuits that followed.",
+        "watch_url": "https://www.netflix.com/title/70132721",
+        "image_url": "GOT.webp"
+      },
+      {
+        "id": 4,
+        "name": "The Matrix",
+        "rating": 8.7,
+        "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+        "watch_url": "https://www.netflix.com/title/20557937",
+        "image_url": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg"
+      },
+      {
+        "id": 5,
+        "name": "The Shawshank Redemption",
+        "rating": 9.3,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "watch_url": "https://www.netflix.com/title/70005379",
+        "image_url": "https://m.media-amazon.com/images/I/51X9pbSKTGL.jpg"
+      }
+    ],
+    "tv_shows": [
+      {
+        "id": 6,
+        "name": "Stranger Things",
+        "rating": 8.7,
+        "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
+        "watch_url": "https://www.netflix.com/title/80057281",
+        "image_url": "https://m.media-amazon.com/images/I/81D8nQZlCgL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Money Heist",
+        "rating": 8.3,
+        "description": "A criminal mastermind who goes by 'The Professor' has a plan to pull off the biggest heist in recorded history - to print billions of euros in the Royal Mint of Spain.",
+        "watch_url": "https://www.netflix.com/title/80192098",
+        "image_url": "https://m.media-amazon.com/images/I/91+UXwqoJ-L._AC_SY679_.jpg"
+      },
+      {
+        "id": 8,
+        "name": "The Witcher",
+        "rating": 8.2,
+        "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+        "watch_url": "https://www.netflix.com/title/80189685",
+        "image_url": "https://m.media-amazon.com/images/I/81t6Y6vlLCL._AC_SY679_.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Breaking Bad",
+        "rating": 9.5,
+        "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's financial future.",
+        "watch_url": "https://www.netflix.com/title/70143836",
+        "image_url": "https://m.media-amazon.com/images/I/81VJ9PrCHRL._AC_SY679_.jpg"
+      }
+    ]
+  }
+  
