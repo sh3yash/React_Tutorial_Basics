@@ -1,0 +1,41 @@
+.register-form{
+    background-color: white;
+
+    width:250px;
+    margin:200px;
+    margin-top: 10px;
+    padding: 50px;
+    box-shadow: 1px 1px 4px 4px rgb(191, 180, 180);
+    
+
+}
+
+.displayed-info{
+    align-items: center;
+    align-content: center;
+    margin-left: 150px;
+
+}
+
+.label-reg{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.input-reg{
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: rgb(205, 198, 198);
+    width: 250px;
+    height:30px;
+
+}
+
+.sign-up-btn{
+    color:white;
+    background-color: skyblue;
+    width: 250px;
+    height:30px;
+    border-radius: 4px;
+    border-width: 0px;
+}

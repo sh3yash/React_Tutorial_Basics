@@ -1,0 +1,68 @@
+*{
+    background-color: rgb(5, 41, 5);
+
+}
+
+#header-id{
+    font-size: x-large;
+    color: white;
+
+}
+
+#name-todo{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    border-width: 0px;
+    background-color: white;
+    border-width: 0px;
+    font-size: larger;
+    
+
+}
+#add-button-todo{
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: skyblue;
+
+    color: white;
+    font-size: larger;
+}
+
+.added-item{
+    width: 280px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: white;
+    padding:5px;
+    margin: 10px;
+    
+}
+
+#added-name{
+    background-color: white;
+
+}
+
+#check-btn{
+    background-color: white;
+    color:white;
+    background-color: lightgreen;
+    border-width: 0px;
+    border-radius: 50%;
+    
+}
+
+#delete-btn{
+    background-color: white;
+    color:white;
+    background-color: red;
+    border-width: 0px;
+    border-radius: 50%;
+
+}
+
+#clear-all-btn{
+    background-color: red;
+    color: white;
+}

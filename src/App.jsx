@@ -1,7 +1,11 @@
 
-import NetflixSeries from './components/NetflixSeries'
+// import NetflixSeries from './components/NetflixSeries'
 import './App.css'
-import ToggleSwitch from './projects/Toggle/ToggleSwitch'
+import Registration from './projects/hooks/Registration'
+// import UseStateHook from './projects/hooks/UseStateHook'
+// import Ss_Eval from './projects/short_circuit_evalution/Ss_Eval'
+// import Todo from './todo_project/Todo'
+// import ToggleSwitch from './projects/Toggle/ToggleSwitch'
 // import LiftStateUp from './components/hooks/LiftStateUp'
 // import Statehook from './components/hooks/Statehook'
 // import StateExample from './components/hooks/StateExample'
@@ -11,11 +15,15 @@ import ToggleSwitch from './projects/Toggle/ToggleSwitch'
 const App = () => {
   return (
     <section>
-    <NetflixSeries/>
+    {/* <NetflixSeries/> */}
     {/* <Statehook/>
     <StateExample/> */}
     {/* <LiftStateUp/> */}
-    <ToggleSwitch/>
+    {/* <ToggleSwitch/> */}
+    {/* <Todo/> */}
+    {/* <Ss_Eval/> */}
+    {/* <UseStateHook/> */}
+    <Registration/>
 
 
     </section>
